@@ -13,7 +13,7 @@ This project implements and compares two popular pan-sharpening techniques:
 - Python
 - OpenCV
 - NumPy
-- Matplotlib
+- Streamlit
 
 ## 📊 Results
 | Fusion Method | Visual Quality | Notes |
