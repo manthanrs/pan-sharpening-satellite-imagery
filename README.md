@@ -26,5 +26,3 @@ This project implements and compares two popular pan-sharpening techniques:
 git clone https://github.com/yourusername/pan-sharpening-satellite-imagery.git
 cd pan-sharpening-satellite-imagery
 pip install -r requirements.txt
-
-
