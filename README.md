@@ -6,9 +6,8 @@ This project implements and compares two popular pan-sharpening techniques:
 
 ## 📂 Structure
 - `scripts/`: Contains modular Python scripts for each fusion method
-- `notebook/`: Jupyter notebook for visual experimentation
+- `data/`: Input data 
 - `outputs/`: Visual results from each fusion technique
-- `evaluation/`: (Optional) Scripts to compute image quality metrics
 
 ## 🛠️ Tech Stack
 - Python
